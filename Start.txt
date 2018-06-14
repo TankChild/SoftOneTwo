@@ -1,7 +1,9 @@
 let's play it by ear!(jz) 
 
-Name£ºfzx Date£º2018-6-2
+NameÂ£Âºfzx DateÂ£Âº2018-6-2
 
 Name: lf Date: 2018-6-2
+
+Name: cg Date: 2018-6-14
 
 test gitfordesktop
