@@ -220,6 +220,16 @@ export const appRouter = [
         ]
     },
     {
+        path: '/JzPage',
+        icon: 'android-sad',
+        title: '我的第一个页面',
+        name: 'myPage',
+        component: Main,
+        children: [
+            { path: 'firstPage', title: '我的第一个页面', name: 'firstPage', component: () => import('@/views/JzPage/firstPage.vue') }
+        ]
+    },
+    {
         path: '/error-page',
         icon: 'android-sad',
         title: '错误页面',
